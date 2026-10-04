@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
