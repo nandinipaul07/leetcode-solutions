@@ -18,12 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
