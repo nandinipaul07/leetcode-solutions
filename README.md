@@ -18,16 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/nandinipaul07/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
